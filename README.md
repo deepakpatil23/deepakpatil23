@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Deepak Patil
+- 👀 I’m interested in Python, Node.js, JSON, Smartcard program, worked on DesfireEV1 and many more, ASP.net, VB.net, android
+- 🌱 I’m currently learning on AI Program, Facial recognition system
+- 📫 How to reach me deepakpatil23@gmail.com or +91 9819515722
